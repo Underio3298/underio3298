@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on Minecraft Mods, hopefully a cheat client someday
 - 📫 How to reach me: discord: underio
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 14y old, 5"10, I do go-karting, coding since 2019
+- ⚡ Fun fact: 14y old, 5"10, I do go-karting, coding since 2019, proud Neovim user
